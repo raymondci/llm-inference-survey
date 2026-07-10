@@ -80,10 +80,8 @@ Future updates will include:
 .
 ├── README.md
 ├── pdf/
-│   └── LLM_Inference_Optimization_Survey.pdf
-├── assets/
-│   └── figures/
-└── LICENSE (optional)
+│   └── llm_survey.pdf
+└── LICENSE.md
 ```
 
 ---

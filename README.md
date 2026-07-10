@@ -93,3 +93,10 @@ Future updates will include:
 Efficient LLM inference is no longer a problem confined to model architecture alone. Future progress increasingly depends on **cross-layer optimization**, spanning algorithms, compiler infrastructures, runtime systems, GPU microarchitecture, memory hierarchy, and specialized hardware accelerators.
 
 This repository aims to document that evolution and provide a continuously updated systems-oriented reference for the LLM inference community.
+
+---
+
+## License
+
+This report is licensed under the
+[Creative Commons Attribution 4.0 International License](./LICENSE.md).
